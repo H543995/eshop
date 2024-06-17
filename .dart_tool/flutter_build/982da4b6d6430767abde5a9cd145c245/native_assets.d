@@ -1,0 +1,1 @@
+ /Users/a/Downloads/eshop-406nulled/codecanyon-29880351-eshop-flutter-ecommerce-full-app/Single\ eShop\ Project\ V4.0.6/Customer\ Flutter\ App\ V4.0.6/.dart_tool/flutter_build/982da4b6d6430767abde5a9cd145c245/native_assets.yaml: 
